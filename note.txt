@@ -1,0 +1,36 @@
+
+saurce code = git >
+https://github.com/Sulistriono/node-js-app.git
+
+
+eslint => 
+npm install eslint@7.32.0 --save-dev
+
+buat experimen chrome :>
+chrome://flags
+
+# yang ahrus diatur dalam experimen adalah 
+-allow invalid certificates for resources loaded from localhost => enabled
+-insecure origins treated as secure => enabled
+=> http://localhost, http://localhost:5000, http://
+-block insecure private network requests => disable
+relatif
+- parallel downloading => enabled
+
+
+diskusi mungkin penting
+- https://www.dicoding.com/academies/261/discussions/133122
+- https://www.dicoding.com/academies/261/discussions/325473
+
+
+
+link apk
+#  http://notesapp-v1.dicodingacademy.com
+
+
+untuk belajar comment line
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+
+belajar git
+https://www.dicoding.com/academies/317
